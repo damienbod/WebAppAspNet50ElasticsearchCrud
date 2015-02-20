@@ -45,7 +45,7 @@ namespace WebAppAspNet50ElasticsearchCrud.Controllers
 
 		public JsonResult Search(string term)
 		{
-			return Json(_searchProvider.QueryString(term));//, "Skills", JsonRequestBehavior.AllowGet);
+			return Json(_searchProvider.QueryString(term));
 		}
 
 		public IActionResult Error()
