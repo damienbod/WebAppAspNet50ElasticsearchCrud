@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace WebAppAspNet50ElasticsearchCrud.SearchProvider
+namespace WebAppAspNet50ElasticsearchCrud.Providers
 {
 	public class Skill
 	{

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace WebAppAspNet50ElasticsearchCrud.SearchProvider
+namespace WebAppAspNet50ElasticsearchCrud.Providers
 {
 	public interface ISearchProvider
 	{

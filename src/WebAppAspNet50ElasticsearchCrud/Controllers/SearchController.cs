@@ -1,12 +1,17 @@
 ﻿using Microsoft.AspNet.Mvc;
 using System;
-using WebAppAspNet50ElasticsearchCrud.SearchProvider;
+using WebAppAspNet50ElasticsearchCrud.Providers;
 
 namespace WebAppAspNet50ElasticsearchCrud.Controllers
 {
     public class SearchController : Controller
     {
-		readonly ISearchProvider _searchProvider = new ElasticSearchProvider();
+		readonly ISearchProvider _searchProvider;
+
+		public SearchController(ISearchProvider searchProvider)
+		{
+			_searchProvider = searchProvider;
+		}
 
 		[HttpGet]
 		public ActionResult Index()

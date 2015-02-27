@@ -5,11 +5,11 @@ using ElasticsearchCRUD;
 using ElasticsearchCRUD.Model.SearchModel;
 using ElasticsearchCRUD.Model.SearchModel.Queries;
 
-namespace WebAppAspNet50ElasticsearchCrud.SearchProvider
+namespace WebAppAspNet50ElasticsearchCrud.Providers
 {
-	public class ElasticSearchProvider : ISearchProvider, IDisposable
+	public class SearchProvider : ISearchProvider, IDisposable
 	{
-		public ElasticSearchProvider()
+		public SearchProvider()
 		{
 			_context = new ElasticsearchContext(ConnectionString, _elasticSearchMappingResolver);
 		}
