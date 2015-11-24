@@ -5,3 +5,6 @@ src/WebAppAspNet50ElasticsearchCrud/bower_components
 src/WebAppAspNet50ElasticsearchCrud/WebAppAspNet50ElasticsearchCrud.kproj.user
 .vs/WebAppAspNet50ElasticsearchCrud/v14/vbcs.cache
 src/WebAppAspNet50ElasticsearchCrud/wwwroot/bin
+src/WebAppAspNet50ElasticsearchCrud/WebAppAspNet50ElasticsearchCrud.xproj.user
+src/WebAppAspNet50ElasticsearchCrud/project.lock.json
+.vs

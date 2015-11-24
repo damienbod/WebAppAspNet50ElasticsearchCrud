@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.22512.0
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A147693F-6A1A-4670-AC7B-5BD2307FECFB}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebAppAspNet50ElasticsearchCrud", "src\WebAppAspNet50ElasticsearchCrud\WebAppAspNet50ElasticsearchCrud.kproj", "{547F6A03-D189-474F-A85D-4FF7C17FDD24}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebAppAspNet50ElasticsearchCrud", "src\WebAppAspNet50ElasticsearchCrud\WebAppAspNet50ElasticsearchCrud.xproj", "{547F6A03-D189-474F-A85D-4FF7C17FDD24}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{47C967E6-D265-45CE-BAF1-945DB13D877B}"
 	ProjectSection(SolutionItems) = preProject
