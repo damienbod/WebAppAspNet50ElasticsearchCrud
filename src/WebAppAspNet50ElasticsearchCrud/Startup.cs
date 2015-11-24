@@ -30,7 +30,8 @@
 
             app.UseStaticFiles();
 
-            app.UseMvc();
+            app.UseMvcWithDefaultRoute();
+            //app.UseMvc();
         }
 
         // Entry point for the application.
