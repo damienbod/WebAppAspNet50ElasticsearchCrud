@@ -1,10 +1,5 @@
-artifacts/obj/WebAppAspNet50ElasticsearchCrud/Debug
-src/WebAppAspNet50ElasticsearchCrud/bower_components
+src/WebAppAspNet50ElasticsearchCrud/bin
+src/WebAppAspNet50ElasticsearchCrud/node_modules
+src/WebAppAspNet50ElasticsearchCrud/node_modules
+.vs/config/applicationhost.config
 .vs/WebAppAspNet50ElasticsearchCrud/v14/.suo
-.vs/WebAppAspNet50ElasticsearchCrud/vbcs.cache
-src/WebAppAspNet50ElasticsearchCrud/WebAppAspNet50ElasticsearchCrud.kproj.user
-.vs/WebAppAspNet50ElasticsearchCrud/v14/vbcs.cache
-src/WebAppAspNet50ElasticsearchCrud/wwwroot/bin
-src/WebAppAspNet50ElasticsearchCrud/WebAppAspNet50ElasticsearchCrud.xproj.user
-src/WebAppAspNet50ElasticsearchCrud/project.lock.json
-.vs
