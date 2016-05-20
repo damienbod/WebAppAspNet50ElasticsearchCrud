@@ -8,3 +8,7 @@ src/WebAppAspNet50ElasticsearchCrud/wwwroot/bin
 src/WebAppAspNet50ElasticsearchCrud/WebAppAspNet50ElasticsearchCrud.xproj.user
 src/WebAppAspNet50ElasticsearchCrud/project.lock.json
 .vs
+src/WebAppAspNet50ElasticsearchCrud/bin
+src/WebAppAspNet50ElasticsearchCrud/node_modules
+src/WebAppAspNet50ElasticsearchCrud/node_modules
+src/WebAppAspNet50ElasticsearchCrud/obj
